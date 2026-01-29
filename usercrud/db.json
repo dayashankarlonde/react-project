@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "id": 101,
+      "ename": "Pratik",
+      "email": "pratik@gmail.com",
+      "mobileno": 1234567
+    },
+    {
+      "id": 102,
+      "ename": "Rohan",
+      "email": "roahan@gmail.com",
+      "mobileno": 12345678
+    },
+    {
+      "id": 103,
+      "ename": "Vichky",
+      "email": "vichky@gmail.com",
+      "mobileno": 12345679
+    },
+    {
+      "id": 104,
+      "ename": "Sandip",
+      "email": "sandip@gmail.com",
+      "mobileno": 12345673
+    },
+    {
+      "id": "11",
+      "ename": "Dayashankar Londe",
+      "email": "dayashankarlonde7057@gmail.com",
+      "mobno": "1111111111111"
+    },
+    {
+      "id": "12",
+      "ename": "ayush",
+      "email": "ayush@gmail.com",
+      "mobno": "333333333332"
+    },
+    {
+      "id": "13",
+      "ename": "prath",
+      "email": "p@gmail.com",
+      "mobileno": "2222222222"
+    },
+    {
+      "id": "15",
+      "ename": "devashish",
+      "email": "devashi@gmail.com",
+      "mobileno": "8224748999"
+    }
+  ]
+}

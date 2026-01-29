@@ -1,0 +1,25 @@
+{ 
+    "employee" :[
+        {"id": 101,
+        "ename":"Pratik",
+        "email":"pratik@gmail.com",
+        "mobileno":1234567},
+
+         {"id": 102,
+        "ename":"Rohan",
+        "email":"roahan@gmail.com",
+        "mobileno":12345678},
+
+         {"id": 103,
+        "ename":"Vichky",
+        "email":"vichky@gmail.com",
+        "mobileno":12345679},
+
+         {"id": 104,
+        "ename":"Sandip",
+        "email":"sandip@gmail.com",
+        "mobileno":12345673}
+
+
+    ]
+}
